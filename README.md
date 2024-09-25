@@ -1,4 +1,4 @@
-Welcome to the **CyberSentry_AI**, the chatbot that's so smart, it makes Einstein look like he just graduated from kindergarten! Built by the genius that is Lakshan S J, this chatbot is not just another pretty face in the world of AI; it’s a formidable opponent to giants like Claude, Mistral, Gemini, and even ChatGPT. Brace yourselves; you’re in for a wild ride!
+Welcome to the **CyberSentry_AI**, the chatbot that's so smart, it makes Einstein look like he just graduated from kindergarten! Built by the genius that is me 😁, this chatbot is not just another pretty face in the world of AI; it’s a formidable opponent to giants like Claude, Mistral, Gemini, and even ChatGPT. Brace yourselves; you’re in for a wild ride!
 
 **Features**
 
