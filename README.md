@@ -1,6 +1,6 @@
-Welcome to the CyberSentry_AI, the chatbot that's so smart, it makes Einstein look like he just graduated from kindergarten! Built by the genius that is Lakshan S J, this chatbot is not just another pretty face in the world of AI; it’s a formidable opponent to giants like Claude, Mistral, Gemini, and even ChatGPT. Brace yourselves; you’re in for a wild ride!
+Welcome to the **CyberSentry_AI**, the chatbot that's so smart, it makes Einstein look like he just graduated from kindergarten! Built by the genius that is Lakshan S J, this chatbot is not just another pretty face in the world of AI; it’s a formidable opponent to giants like Claude, Mistral, Gemini, and even ChatGPT. Brace yourselves; you’re in for a wild ride!
 
-Features
+**Features**
 
 - **Custom Model Training**: Unlike your average chatbot that learned everything from Wikipedia, CyberSentry_AI has gone through rigorous training. Think of it as the Rocky Balboa of chatbots, minus the eye of the tiger but with all the data!
 
@@ -43,6 +43,6 @@ This project is licensed under the **MIT License**—because who has time for co
 
 Got questions? Suggestions? Or just want to chat about how awesome CyberSentry_AI is? Reach out to:  
 **Name**: Lakshan S J  
-**Email**: [Your Email Here]
+**Email**: infosightrecon@gmail.com
 
 Thank you for stopping by the CyberSentry_AI project! We hope it helps you in your cybersecurity journey, or at the very least, provides some entertainment while you pretend to work. Now go forth and engage with the chatbot that’s smarter than your average bear!
